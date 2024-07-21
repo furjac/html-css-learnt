@@ -1,0 +1,12 @@
+.text {
+    display: inline-block;
+    width: 300px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+button {
+    vertical-align: middle;
+    display: inline-block;
+    margin-bottom: 40px;
+}

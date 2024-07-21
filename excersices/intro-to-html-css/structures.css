@@ -1,0 +1,19 @@
+.heading {
+    font-family: Montserrat;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.text-details {
+    font-family: Montserrat;
+    text-align: center;
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+.touchless-delivery {
+    text-decoration: underline;
+}

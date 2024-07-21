@@ -1,0 +1,8 @@
+.name-input,
+.email-input {
+    display: block;
+}
+
+.name-input {
+    margin-bottom: 8px;
+}
